@@ -5,7 +5,7 @@ Repository contenente tutti i dataset di addestramento, validazione e valutazion
 ## Overview
 Tutti i dati sono memorizzati su Google Drive:
 
-| Path | Files | Format | Resolution | FD | Filtered | Source |
+| Path | Files | Format | Resolution | FD | Filtered | Source (Original images) |
 | :--- | ----: | :----: | :----: | :----: | :----: | :----: |
 | [Dataset train](https://drive.google.com/drive/folders/1uLddVmSqS_TvMJwHRHkg2t3BZrtsBOda?usp=sharing) |  |  | |||
 | &boxvr;&nbsp; CAHQ | 26824 | JPG | 160x160 | &check; | &check; | [&neArr;](https://github.com/tkarras/progressive_growing_of_gans) |
