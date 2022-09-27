@@ -1,9 +1,9 @@
 # Dataset GANdetection
-Repository contenente tutti i dataset di addestramento, validazione e valutazione utilizzati per il progetto [GANdetection](https://github.com/francescovolpe/GANdetection)
+Repository containing all training, validation and evaluation datasets used for the project [GANdetection](https://github.com/francescovolpe/GANdetection)
 
 
 ## Overview
-Tutti i dati sono memorizzati su Google Drive:
+All data are stored on Google Drive:
 
 | Path | Files | Format | Resolution | FD | Filtered | Source (Original images) |
 | :--- | ----: | :----: | :----: | :----: | :----: | :----: |
@@ -26,9 +26,8 @@ Tutti i dati sono memorizzati su Google Drive:
 
 <br>
 Note: <br>
-FD = indica se sono stati applicati algoritmi di riconoscimento facciale sui dataset <br>
-Filtered = indica se i dataset sono stati filtrati rimuovendo immagini in cui il face detect non ha avuto successo
-
+FD = it indicates whether facial recognition algorithms have been applied to the datasets <br>
+Filtered = it indicates whether the datasets were filtered by removing images where face detect was fail
 
 
 
